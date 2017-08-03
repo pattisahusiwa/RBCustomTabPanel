@@ -1,2 +1,6 @@
-*.rbuistate
+.xojo_uistate
+*.xojo_uistate
+*.obsolete_*
+Builds - */
+Debug*/
 .DS_Store
